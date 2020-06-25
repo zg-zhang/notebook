@@ -10,17 +10,17 @@
 
 本笔记语雀同步更新地址：[zg_zhang的学习笔记](https://www.yuque.com/zg_zhang)
 
-# 📃 目录
+## 📃 目录
 
 * JavaScript
     * 那些我将要掌握的JavaScript
-        * [知识点乱斗]()
+        * [知识点乱斗](https://github.com/zg-zhang/nokebook/blob/master/JavaScript/0/js-0-000.md)
 
-# 📚 学习好文
+## 📚 学习好文
 
-## ✔ 已读
+### ✔ 已读
 
-## ✖ 未读
+### ✖ 未读
 
 * [前端存储除了 localStorage 还有啥](https://juejin.im/post/5ee83f10e51d4578975a7b8a#heading-12)
 * [你不知道的 Web Workers （上）](https://juejin.im/post/5ef2a554f265da02e47d952b?utm_source=gold_browser_extension)
