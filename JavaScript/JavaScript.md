@@ -7,6 +7,7 @@
     * [历史](https://github.com/zg-zhang/nokebook/blob/master/JavaScript/1/js-1-001.md)
     * [基本语法](https://github.com/zg-zhang/nokebook/blob/master/JavaScript/1/js-1-002.md)
     * 数据类型
+        * [判断数据类型的三种方法](https://github.com/zg-zhang/nokebook/blob/master/JavaScript/1/js-1-011.md)
         * [数值 number](https://github.com/zg-zhang/nokebook/blob/master/JavaScript/1/js-1-003.md)
         * [字符串 string](https://github.com/zg-zhang/nokebook/blob/master/JavaScript/1/js-1-004.md)
         * [布尔值 boolean](https://github.com/zg-zhang/nokebook/blob/master/JavaScript/1/js-1-005.md)
