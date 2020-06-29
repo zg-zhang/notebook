@@ -13,6 +13,7 @@
 ## 📃 目录
 
 * [JavaScript](https://github.com/zg-zhang/nokebook/blob/master/JavaScript/JavaScript.md)
+* [TypeScript](https://github.com/zg-zhang/nokebook/blob/master/TypeScript/TypeScript.md)
     
     
 ## 📚 学习好文
@@ -26,4 +27,6 @@
 * [1.2W字 | 了不起的 TypeScript 入门教程](https://juejin.im/post/5edd8ad8f265da76fc45362c)
 * [一文读懂 TypeScript 泛型及应用](https://juejin.im/post/5ee00fca51882536846781ee)
 * [🐜前端面试复习笔记](https://github.com/CavsZhouyou/Front-End-Interview-Notebook)
+* [掘金小册：深入浅出TypeScript：从基础知识到类型编程](https://juejin.im/book/5da08714518825520e6bb810)
+* [TypeScript 入门教程](https://ts.xcatliu.com/)
 * []()
