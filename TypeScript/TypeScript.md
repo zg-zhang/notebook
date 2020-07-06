@@ -6,3 +6,5 @@
     * [任意值](https://github.com/zg-zhang/nokebook/blob/master/TypeScript/base/any.md)
     * [类型推论](https://github.com/zg-zhang/nokebook/blob/master/TypeScript/base/type-inference.md)
     * [联合类型](https://github.com/zg-zhang/nokebook/blob/master/TypeScript/base/union-types.md)
+    * [对象的类型——接口](https://github.com/zg-zhang/nokebook/blob/master/TypeScript/base/interfaces.md)
+    * [数组的类型](https://github.com/zg-zhang/nokebook/blob/master/TypeScript/base/type-of-array.md)
