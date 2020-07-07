@@ -8,3 +8,4 @@
     * [联合类型](https://github.com/zg-zhang/nokebook/blob/master/TypeScript/base/union-types.md)
     * [对象的类型——接口](https://github.com/zg-zhang/nokebook/blob/master/TypeScript/base/interfaces.md)
     * [数组的类型](https://github.com/zg-zhang/nokebook/blob/master/TypeScript/base/type-of-array.md)
+    * [函数的类型](https://github.com/zg-zhang/nokebook/blob/master/TypeScript/base/type-of-function.md)
