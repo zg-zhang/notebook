@@ -14,4 +14,5 @@
     * [内置对象](https://github.com/zg-zhang/nokebook/blob/master/TypeScript/base/built-in-objects.md)
 * 进阶
     * [类型别名](https://github.com/zg-zhang/nokebook/blob/master/TypeScript/advanced/type-aliases.md)
+    * [字符串字面量类型](https://github.com/zg-zhang/nokebook/blob/master/TypeScript/advanced/string-literal-types.md)
 
