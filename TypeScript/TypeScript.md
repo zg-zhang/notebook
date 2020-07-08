@@ -11,3 +11,7 @@
     * [函数的类型](https://github.com/zg-zhang/nokebook/blob/master/TypeScript/base/type-of-function.md)
     * [类型断言](https://github.com/zg-zhang/nokebook/blob/master/TypeScript/base/type-assertion.md)
     * [声明文件](https://github.com/zg-zhang/nokebook/blob/master/TypeScript/base/declaration-files.md)
+    * [内置对象](https://github.com/zg-zhang/nokebook/blob/master/TypeScript/base/built-in-objects.md)
+* 进阶
+    * [类型别名](https://github.com/zg-zhang/nokebook/blob/master/TypeScript/advanced/type-aliases.md)
+
