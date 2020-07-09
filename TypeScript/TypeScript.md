@@ -16,4 +16,5 @@
     * [类型别名](https://github.com/zg-zhang/nokebook/blob/master/TypeScript/advanced/type-aliases.md)
     * [字符串字面量类型](https://github.com/zg-zhang/nokebook/blob/master/TypeScript/advanced/string-literal-types.md)
     * [元组](https://github.com/zg-zhang/nokebook/blob/master/TypeScript/advanced/tuple.md)
+    * [枚举](https://github.com/zg-zhang/nokebook/blob/master/TypeScript/advanced/enum.md)
 
