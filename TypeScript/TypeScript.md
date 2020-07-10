@@ -18,4 +18,5 @@
     * [元组](https://github.com/zg-zhang/nokebook/blob/master/TypeScript/advanced/tuple.md)
     * [枚举](https://github.com/zg-zhang/nokebook/blob/master/TypeScript/advanced/enum.md)
     * [类](https://github.com/zg-zhang/nokebook/blob/master/TypeScript/advanced/class.md)
+    * [类与接口](https://github.com/zg-zhang/nokebook/blob/master/TypeScript/advanced/class-and-interface.md)
 
