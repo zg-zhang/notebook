@@ -19,4 +19,5 @@
     * [枚举](https://github.com/zg-zhang/nokebook/blob/master/TypeScript/advanced/enum.md)
     * [类](https://github.com/zg-zhang/nokebook/blob/master/TypeScript/advanced/class.md)
     * [类与接口](https://github.com/zg-zhang/nokebook/blob/master/TypeScript/advanced/class-and-interface.md)
+    * [泛型](https://github.com/zg-zhang/nokebook/blob/master/TypeScript/advanced/generics.md)
 
