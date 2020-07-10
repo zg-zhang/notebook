@@ -206,3 +206,96 @@ a.name = 'Tom'
 ```
 
 使用 private 修饰的属性和方法，在子类中也是不允许访问的
+
+而如果是用 protected 修饰，则允许在子类中访问
+
+当构造函数修饰为 private 时，该类不允许被继承或者实例化
+
+当构造函数修饰为 protected 时，该类只允许被继承
+
+### 参数属性
+
+修饰符和 readonly 还可以使用在构造函数参数中，等同于类中定义该属性同时给该属性赋值，使代码更加简洁
+
+```typescript
+class Animal {
+    // public name: string
+    public constructor(public name) {
+        // this.name = name; 
+    }
+}
+```
+
+### readonly 
+
+只读属性关键字，只允许出现在属性声明或索引签名或构造函数中
+
+```typescript
+class Animal {
+    readonly name;
+    public constructor(name) {
+        this.name = name;
+    }
+}
+
+let a = new Animal('Jack');
+console.log(a.name); // Jack
+a.name = 'Tom'; // error
+```
+
+如果 readonly 和其他访问修饰符同时存在的话，需要写在其后面
+
+```typescript
+class Animal {
+    public constructor(public readonly name) {}
+}
+```
+
+### 抽象类
+
+abstract 用于定义抽象类和其中的抽象方法
+
+* 抽象类是允许被实例化的
+* 抽象类中的抽象方法必须被子类实现
+
+正确的使用方法：
+
+```typescript
+abstract class Animal {
+    public name;
+    public constructor(name) {
+        this.name = name
+    }
+    public abstract sayHi();
+}
+
+class Cat extends Animal{
+    public sayHi() {
+        console.log(`Meow, My name is ${this.name}`);
+    }
+}
+
+let cat = new Cat('Tom')
+```
+
+注意，虽然是抽象方法，但是 TypeScript 的编译结果中，仍然会存在这个类
+
+## 类的类型
+
+给类加上 TypeScript 的类型很简单，与接口类似：
+
+```typescript
+class Animal {
+    name: string;
+    constructor(name: string) {
+        this.name = name;
+    }
+    sayHi(): string {
+        return `My name is ${this.name}`;
+    }
+}
+
+let a: Animal = new Animal('Jack');
+console.log(a.sayHi()); // My name is Jack
+```
+
