@@ -1,4 +1,4 @@
-# nokebook
+# Notebook
 
 😼前端学习笔记！冲！
 
@@ -14,11 +14,16 @@
 
 * [JavaScript](https://github.com/zg-zhang/nokebook/blob/master/JavaScript/JavaScript.md)
 * [TypeScript](https://github.com/zg-zhang/nokebook/blob/master/TypeScript/TypeScript.md)
+* 实战笔记
+    * [用 TypeScript 实现 Axios](https://github.com/zg-zhang/nokebook/blob/master/project/axios-zeguo/directory.md)
     
     
 ## 📚 学习好文
 
 ### ✔ 已读
+
+* TypeScript
+    * [TypeScript 入门教程](https://ts.xcatliu.com/)
 
 ### ✖ 未读
 
@@ -28,5 +33,4 @@
 * [一文读懂 TypeScript 泛型及应用](https://juejin.im/post/5ee00fca51882536846781ee)
 * [🐜前端面试复习笔记](https://github.com/CavsZhouyou/Front-End-Interview-Notebook)
 * [掘金小册：深入浅出TypeScript：从基础知识到类型编程](https://juejin.im/book/5da08714518825520e6bb810)
-* [TypeScript 入门教程](https://ts.xcatliu.com/)
 * []()
