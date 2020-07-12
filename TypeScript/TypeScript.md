@@ -20,4 +20,5 @@
     * [类](https://github.com/zg-zhang/nokebook/blob/master/TypeScript/advanced/class.md)
     * [类与接口](https://github.com/zg-zhang/nokebook/blob/master/TypeScript/advanced/class-and-interface.md)
     * [泛型](https://github.com/zg-zhang/nokebook/blob/master/TypeScript/advanced/generics.md)
+    * [声明合并](https://github.com/zg-zhang/nokebook/blob/master/TypeScript/advanced/declaration-merging.md)
 
