@@ -6,7 +6,7 @@
     * [导论](https://github.com/zg-zhang/nokebook/blob/master/JavaScript/1/js-1-000.md)
     * [历史](https://github.com/zg-zhang/nokebook/blob/master/JavaScript/1/js-1-001.md)
     * [基本语法](https://github.com/zg-zhang/nokebook/blob/master/JavaScript/1/js-1-002.md)
-    * 数据类型
+    * 数据类型 1
         * [判断数据类型的三种方法](https://github.com/zg-zhang/nokebook/blob/master/JavaScript/1/js-1-011.md)
         * [数值 number](https://github.com/zg-zhang/nokebook/blob/master/JavaScript/1/js-1-003.md)
         * [字符串 string](https://github.com/zg-zhang/nokebook/blob/master/JavaScript/1/js-1-004.md)
@@ -17,6 +17,15 @@
             * [狭义的对象 object](https://github.com/zg-zhang/nokebook/blob/master/JavaScript/1/js-1-008.md)
             * [数组 array](https://github.com/zg-zhang/nokebook/blob/master/JavaScript/1/js-1-009.md)
             * [函数 function](https://github.com/zg-zhang/nokebook/blob/master/JavaScript/1/js-1-010.md)
+    * 运算符 2
+    * 语法专题 3
+    * 标准库 4
+    * 面向对象编程 5
+    * 异步操作 6
+    * DOM 7
+    * 事件 8
+    * 浏览器模型 9
+        * [XMLHttpRequest 对象](https://github.com/zg-zhang/nokebook/blob/master/JavaScript/9/js-9-004.md)
 * ES6
     * [Symbol](https://github.com/zg-zhang/nokebook/blob/master/JavaScript/2/js-2-001.md)
     * []()
