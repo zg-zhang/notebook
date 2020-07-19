@@ -12,10 +12,11 @@
 
 ## 📃 目录
 
-* [JavaScript](https://github.com/zg-zhang/nokebook/blob/master/JavaScript/JavaScript.md)
-* [TypeScript](https://github.com/zg-zhang/nokebook/blob/master/TypeScript/TypeScript.md)
+* [CSS](https://github.com/zg-zhang/nokebook/blob/master/CSS/README.md)
+* [JavaScript](https://github.com/zg-zhang/nokebook/blob/master/JavaScript/README.md)
+* [TypeScript](https://github.com/zg-zhang/nokebook/blob/master/TypeScript/README.md)
 * 实战笔记
-    * [用 TypeScript 实现 Axios](https://github.com/zg-zhang/nokebook/blob/master/project/axios-zeguo/directory.md)
+    * [用 TypeScript 实现 Axios](https://github.com/zg-zhang/nokebook/blob/master/project/axios-zeguo/README.md)
     
     
 ## 📚 学习好文
@@ -33,4 +34,5 @@
 * [一文读懂 TypeScript 泛型及应用](https://juejin.im/post/5ee00fca51882536846781ee)
 * [🐜前端面试复习笔记](https://github.com/CavsZhouyou/Front-End-Interview-Notebook)
 * [掘金小册：深入浅出TypeScript：从基础知识到类型编程](https://juejin.im/book/5da08714518825520e6bb810)
+* [CSS揭秘](https://book.douban.com/subject/26745943/)
 * []()
