@@ -15,6 +15,7 @@
 * [CSS](https://github.com/zg-zhang/nokebook/blob/master/CSS/README.md)
 * [JavaScript](https://github.com/zg-zhang/nokebook/blob/master/JavaScript/README.md)
 * [TypeScript](https://github.com/zg-zhang/nokebook/blob/master/TypeScript/README.md)
+* [Gulp](https://github.com/zg-zhang/nokebook/blob/master/Gulp/README.md)
 * 实战笔记
     * [用 TypeScript 实现 Axios](https://github.com/zg-zhang/nokebook/blob/master/project/axios-zeguo/README.md)
     
