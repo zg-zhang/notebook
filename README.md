@@ -20,6 +20,12 @@
     * [用 TypeScript 实现 Axios](https://github.com/zg-zhang/nokebook/blob/master/project/axios-zeguo/README.md)
     
     
+## ❓ 想要了解但是还没完全理解的问题
+
+这里只列出未解决的
+
+- [ ] BFC 块格式化上下文
+    
 ## 📚 学习好文
 
 ### ✔ 已读
