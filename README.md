@@ -16,6 +16,7 @@
 * [JavaScript](https://github.com/zg-zhang/nokebook/blob/master/JavaScript/README.md)
 * [TypeScript](https://github.com/zg-zhang/nokebook/blob/master/TypeScript/README.md)
 * [Gulp](https://github.com/zg-zhang/nokebook/blob/master/Gulp/README.md)
+* [Interview](https://github.com/zg-zhang/nokebook/blob/master/Interview/README.md)
 * 实战笔记
     * [用 TypeScript 实现 Axios](https://github.com/zg-zhang/nokebook/blob/master/project/axios-zeguo/README.md)
     
@@ -48,4 +49,5 @@
 * [掘金小册：深入浅出TypeScript：从基础知识到类型编程](https://juejin.im/book/5da08714518825520e6bb810)
 * [CSS揭秘](https://book.douban.com/subject/26745943/)
 * [各种页面常见布局+知名网站实例分析+相关阅读推荐](https://github.com/Sweet-KK/css-layout)
+* [前端该如何准备数据结构和算法？](https://juejin.im/post/5d5b307b5188253da24d3cd1)
 * []()
