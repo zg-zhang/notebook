@@ -60,7 +60,5 @@
 重点中的重点，最好同时掌握递归和非递归版本，递归版本很容易书写，但是真正考察基本功的是非递归版本。
 
 * [二叉树的前序遍历](https://github.com/zg-zhang/notebook/blob/master/Interview/data-structure/%E4%BA%8C%E5%8F%89%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%89%8D%E5%BA%8F%E9%81%8D%E5%8E%86.md) :首先访问根结点，然后遍历左子树，最后遍历右子树
-
 * [二叉树的中序遍历](https://github.com/zg-zhang/notebook/blob/master/Interview/data-structure/%E4%BA%8C%E5%8F%89%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86.md) :首先遍历左子树，然后访问根结点，最后遍历右子树
-    
 * [二叉树的后序遍历](https://github.com/zg-zhang/notebook/blob/master/Interview/data-structure/%E4%BA%8C%E5%8F%89%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86.md) :首先遍历左子树，然后遍历右子树，最后访问根结点
