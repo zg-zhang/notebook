@@ -28,4 +28,4 @@
 
 ## 数据结构 - 二叉树
 
-[]()
+[二叉树目录](https://github.com/zg-zhang/notebook/blob/master/Interview/data-structure/%E4%BA%8C%E5%8F%89%E6%A0%91/README.md)
